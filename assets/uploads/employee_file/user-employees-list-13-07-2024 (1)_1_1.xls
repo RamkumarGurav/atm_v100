@@ -1,0 +1,115 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>User Employees List</title>
+</head>
+<body>
+    <table width="100%" border="1" align="center" cellpadding="0" cellspacing="0">
+                                    <thead>
+                                                                            
+                                        <tr >
+                                            <th style="background-color:#999" width="*">Sl. No.</th>
+                                            <th style="background-color:#999" width="*">Name</th>
+											<th style="background-color:#999" width="*">Email</th>
+											<th style="background-color:#999" width="*">Contact No</th>
+											<th style="background-color:#999" width="*">Branch Name</th>
+											<th style="background-color:#999" width="*">Password</th>
+											<th style="background-color:#999" width="*">Employee Code</th>
+											<th style="background-color:#999" width="*">Start Time</th>
+											<th style="background-color:#999" width="*">End Time</th>
+											<th style="background-color:#999" width="*">Country</th>
+											<th style="background-color:#999" width="*">State</th>
+											<th style="background-color:#999" width="*">City</th>
+											<th style="background-color:#999" width="*">Address</th>
+											<th style="background-color:#999" width="*">Pincode</th>
+											<th style="background-color:#999" width="*">Added On</th>
+											<th style="background-color:#999" width="*">Updated On</th>
+											<th style="background-color:#999" width="*">Updated By</th>
+											<th style="background-color:#999" width="*">Status</th>
+                                        </tr>
+                                      </thead>
+                                    <tbody>
+									                                        <tr>
+                                            <td width="*">1</td>
+											<td width="*">Naveen</td>
+											<td width="*">ramkumarsgurav@gmail.com</td>
+											<td width="*">08549065626</td>
+											<td width="*">Manglore Branch</td>
+											<td width="*">asdfasdf</td>
+											<td width="*">asdfasdfasdf</td>
+											<td width="*">07:51:00</td>
+											<td width="*">19:51:00</td>
+											<td width="*">India</td>
+											<td width="*">Karnataka</td>
+											<td width="*">Madhugiri</td>
+											<td width="*">chandra layout</td>
+											<td width="*">560060</td>
+											<td width="*">12-07-2024 07:51:33 PM &nbsp;</td>
+											<td width="*">  &nbsp;</td>
+                                            <td width="*"></td>
+                                            <td width="*">
+											 Active
+                                                	
+											</td>
+                                            
+                                        </tr>
+									                                        <tr>
+                                            <td width="*">2</td>
+											<td width="*">bengaluru ram</td>
+											<td width="*">ramkumarsgurav@gmail.com</td>
+											<td width="*">8549065626</td>
+											<td width="*">Bangoluru branch</td>
+											<td width="*">1JS15ec071@</td>
+											<td width="*">emp12</td>
+											<td width="*">06:30:00</td>
+											<td width="*">18:30:00</td>
+											<td width="*">India</td>
+											<td width="*">Kerala</td>
+											<td width="*">Kunnamkulam</td>
+											<td width="*">chandra layout</td>
+											<td width="*">560060</td>
+											<td width="*">12-07-2024 06:31:16 PM &nbsp;</td>
+											<td width="*"> 12-07-2024 07:50:41 PM &nbsp;</td>
+                                            <td width="*">Krishna</td>
+                                            <td width="*">
+											 Active
+                                                	
+											</td>
+                                            
+                                        </tr>
+									                                        <tr>
+                                            <td width="*">3</td>
+											<td width="*">Manglore Krishna</td>
+											<td width="*">ram@gmail.com</td>
+											<td width="*">1236547891</td>
+											<td width="*">Bangoluru branch</td>
+											<td width="*">asdfasdf</td>
+											<td width="*">emp1234</td>
+											<td width="*">06:29:00</td>
+											<td width="*">19:00:00</td>
+											<td width="*">India</td>
+											<td width="*">Karnataka</td>
+											<td width="*">Dharwad</td>
+											<td width="*">bengaluru 560060</td>
+											<td width="*">560060</td>
+											<td width="*">12-07-2024 03:36:52 PM &nbsp;</td>
+											<td width="*"> 12-07-2024 07:39:08 PM &nbsp;</td>
+                                            <td width="*">Krishna</td>
+                                            <td width="*">
+											 Active
+                                                	
+											</td>
+                                            
+                                        </tr>
+																			
+                                       
+									                                    </tbody>
+                                    
+                                </table>
+
+
+
+</body>
+
+</html>

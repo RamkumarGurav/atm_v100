@@ -1,0 +1,1647 @@
+
+<!DOCTYPE html
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+	<title>Employee Attendance Report</title>
+
+</head>
+
+
+
+<body>
+		<table width="100%" border="1" align="center" cellpadding="0" cellspacing="0">
+		<thead>
+
+
+
+		</thead>
+		<tbody>
+									<tr>
+							<th style="background-color:#999" width="*">Sl. No.</th>
+							<th style="background-color:#999" width="*">Start Date</th>
+							<th style="background-color:#999" width="*">End Date</th>
+							<th style="background-color:#999" width="*">Employee Name</th>
+							<th style="background-color:#999" width="*">Employee ID</th>
+							<th style="background-color:#999" width="*">Branch</th>
+							<th style="background-color:#999" width="*">Department</th>
+							<th style="background-color:#999" width="*">Designation</th>
+							<th style="background-color:#999" width="*">Email Id</th>
+							<th style="background-color:#999" width="*">Mobile No</th>
+							<th style="background-color:#999" width="*">Total Days</th>
+							<th style="background-color:#999" width="*">Expected Attendance</th>
+							<th style="background-color:#999" width="*">Actual Attendance</th>
+							<th style="background-color:#999" width="*">Missed Attendance</th>
+							<th style="background-color:#999" width="*">Expected Work Time</th>
+							<th style="background-color:#999" width="*">Actual Worked Time</th>
+							<th style="background-color:#999" width="*">Late Logins</th>
+							<th style="background-color:#999" width="*">Early Logouts</th>
+							<th style="background-color:#999" width="*">Employee Status</th>
+						</tr>
+						<tr>
+							<td width="*">1</td>
+
+							<td width="*" style="mso-number-format:'\@'">01/07/2024</td>
+							<td width="*" style="mso-number-format:'\@'">31/07/2024</td>
+							<td width="*">Guru Hugar</td>
+
+							<td width="*">emp111</td>
+
+
+
+
+							<td width="*">Manglore Branch</td>
+							<td width="*">Marketing</td>
+							<td width="*">Store Manager</td>
+							<td width="*">ramkumarsgurav@gmail.com</td>
+							<td width="*">08549065626</td>
+							<td width="*"> 									31															</td>
+							<td width="*"> 									23															</td>
+							<td width="*"> 									6															</td>
+							<td width="*"> 									18															</td>
+							<td width="*">
+								207Hr:00Min:00Sec							</td>
+							<td width="*">
+								24Hr:20Min:48Sec							</td>
+							<td width="*"> 5</td>
+							<td width="*"> 5</td>
+							<td width="*">
+								 Active
+															</td>
+
+						</tr>
+						<tr>
+							<th style="background-color:#999777" width="*"></th>
+							<th style="background-color:#999777" width="*">Sl. No.</th>
+							<th style="background-color:#999777" width="*">Attendance Date</th>
+							<th style="background-color:#999777" width="*">Day Type</th>
+							<th style="background-color:#999777" width="*">Login Time</th>
+							<th style="background-color:#999777" width="*">Logout Time</th>
+							<th style="background-color:#999777" width="*">Expected Work Time</th>
+							<th style="background-color:#999777" width="*">Actual Worked Time</th>
+						</tr>
+
+
+
+						
+									<tr>
+										<td width="*"></td>
+										<td width="*">1</td>
+										<td width="*" style="mso-number-format:'\@'">01/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">2</td>
+										<td width="*" style="mso-number-format:'\@'">02/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">3</td>
+										<td width="*" style="mso-number-format:'\@'">03/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">4</td>
+										<td width="*" style="mso-number-format:'\@'">04/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">5</td>
+										<td width="*" style="mso-number-format:'\@'">05/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">6</td>
+										<td width="*" style="mso-number-format:'\@'">06/07/2024</td>
+										<td width="*">
+
+																																				Holiday
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">7</td>
+										<td width="*" style="mso-number-format:'\@'">07/07/2024</td>
+										<td width="*">
+
+																																				Holiday
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">8</td>
+										<td width="*" style="mso-number-format:'\@'">08/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">9</td>
+										<td width="*" style="mso-number-format:'\@'">09/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">10</td>
+										<td width="*" style="mso-number-format:'\@'">10/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">11</td>
+										<td width="*" style="mso-number-format:'\@'">11/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">12</td>
+										<td width="*" style="mso-number-format:'\@'">12/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">13</td>
+										<td width="*" style="mso-number-format:'\@'">13/07/2024</td>
+										<td width="*">
+
+																																				Holiday
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">14</td>
+										<td width="*" style="mso-number-format:'\@'">14/07/2024</td>
+										<td width="*">
+
+																																				Holiday
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">15</td>
+										<td width="*" style="mso-number-format:'\@'">15/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">16</td>
+										<td width="*" style="mso-number-format:'\@'">16/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">17</td>
+										<td width="*" style="mso-number-format:'\@'">17/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">18</td>
+										<td width="*" style="mso-number-format:'\@'">18/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">19</td>
+										<td width="*" style="mso-number-format:'\@'">19/07/2024</td>
+										<td width="*">
+
+																																				Working Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												At 11:07 AM On 19/07/2024																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												At 01:07 PM On 19/07/2024																					</td>
+										<td width="*">
+																							09Hr:00Min:00Sec																					</td>
+										<td width="*">
+											
+												02Hr:00Min:00Sec																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">20</td>
+										<td width="*" style="mso-number-format:'\@'">20/07/2024</td>
+										<td width="*">
+
+																																				Holiday
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">21</td>
+										<td width="*" style="mso-number-format:'\@'">21/07/2024</td>
+										<td width="*">
+
+																																				Holiday
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">22</td>
+										<td width="*" style="mso-number-format:'\@'">22/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">23</td>
+										<td width="*" style="mso-number-format:'\@'">23/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">24</td>
+										<td width="*" style="mso-number-format:'\@'">24/07/2024</td>
+										<td width="*">
+
+																																				Working Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												At 11:24 AM On 24/07/2024																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												At 05:25 PM On 24/07/2024																					</td>
+										<td width="*">
+																							09Hr:00Min:00Sec																					</td>
+										<td width="*">
+											
+												06Hr:01Min:13Sec																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">25</td>
+										<td width="*" style="mso-number-format:'\@'">25/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">26</td>
+										<td width="*" style="mso-number-format:'\@'">26/07/2024</td>
+										<td width="*">
+
+																																				Working Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												At 11:06 AM On 26/07/2024																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												At 04:40 PM On 26/07/2024																					</td>
+										<td width="*">
+																							09Hr:00Min:00Sec																					</td>
+										<td width="*">
+											
+												05Hr:33Min:16Sec																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">27</td>
+										<td width="*" style="mso-number-format:'\@'">27/07/2024</td>
+										<td width="*">
+
+																																				Extra Working Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												At 07:24 PM On 27/07/2024																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							00Hr:00Min:00Sec																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">28</td>
+										<td width="*" style="mso-number-format:'\@'">28/07/2024</td>
+										<td width="*">
+
+																																				Holiday
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">29</td>
+										<td width="*" style="mso-number-format:'\@'">29/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">30</td>
+										<td width="*" style="mso-number-format:'\@'">30/07/2024</td>
+										<td width="*">
+
+																																				Working Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												At 10:10 AM On 30/07/2024																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												At 02:06 PM On 30/07/2024																					</td>
+										<td width="*">
+																							09Hr:00Min:00Sec																					</td>
+										<td width="*">
+											
+												03Hr:56Min:50Sec																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">31</td>
+										<td width="*" style="mso-number-format:'\@'">31/07/2024</td>
+										<td width="*">
+
+																																				Working Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												At 11:30 AM On 31/07/2024																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												At 06:20 PM On 31/07/2024																					</td>
+										<td width="*">
+																							09Hr:00Min:00Sec																					</td>
+										<td width="*">
+											
+												06Hr:49Min:29Sec																					</td>
+
+									</tr>
+
+
+								
+
+						
+
+
+
+
+
+
+											<tr>
+							<th style="background-color:#999" width="*">Sl. No.</th>
+							<th style="background-color:#999" width="*">Start Date</th>
+							<th style="background-color:#999" width="*">End Date</th>
+							<th style="background-color:#999" width="*">Employee Name</th>
+							<th style="background-color:#999" width="*">Employee ID</th>
+							<th style="background-color:#999" width="*">Branch</th>
+							<th style="background-color:#999" width="*">Department</th>
+							<th style="background-color:#999" width="*">Designation</th>
+							<th style="background-color:#999" width="*">Email Id</th>
+							<th style="background-color:#999" width="*">Mobile No</th>
+							<th style="background-color:#999" width="*">Total Days</th>
+							<th style="background-color:#999" width="*">Expected Attendance</th>
+							<th style="background-color:#999" width="*">Actual Attendance</th>
+							<th style="background-color:#999" width="*">Missed Attendance</th>
+							<th style="background-color:#999" width="*">Expected Work Time</th>
+							<th style="background-color:#999" width="*">Actual Worked Time</th>
+							<th style="background-color:#999" width="*">Late Logins</th>
+							<th style="background-color:#999" width="*">Early Logouts</th>
+							<th style="background-color:#999" width="*">Employee Status</th>
+						</tr>
+						<tr>
+							<td width="*">2</td>
+
+							<td width="*" style="mso-number-format:'\@'">01/07/2024</td>
+							<td width="*" style="mso-number-format:'\@'">31/07/2024</td>
+							<td width="*">ram gurav</td>
+
+							<td width="*">emp222</td>
+
+
+
+
+							<td width="*">Bengalore branch</td>
+							<td width="*">Marketing</td>
+							<td width="*">Product Manager</td>
+							<td width="*">ramkumarsgurav@gmail.com</td>
+							<td width="*">08549065626</td>
+							<td width="*"> 									31															</td>
+							<td width="*"> 									23															</td>
+							<td width="*"> 									4															</td>
+							<td width="*"> 									19															</td>
+							<td width="*">
+								207Hr:00Min:00Sec							</td>
+							<td width="*">
+								00Hr:48Min:50Sec							</td>
+							<td width="*"> 3</td>
+							<td width="*"> 1</td>
+							<td width="*">
+								 Active
+															</td>
+
+						</tr>
+						<tr>
+							<th style="background-color:#999777" width="*"></th>
+							<th style="background-color:#999777" width="*">Sl. No.</th>
+							<th style="background-color:#999777" width="*">Attendance Date</th>
+							<th style="background-color:#999777" width="*">Day Type</th>
+							<th style="background-color:#999777" width="*">Login Time</th>
+							<th style="background-color:#999777" width="*">Logout Time</th>
+							<th style="background-color:#999777" width="*">Expected Work Time</th>
+							<th style="background-color:#999777" width="*">Actual Worked Time</th>
+						</tr>
+
+
+
+						
+									<tr>
+										<td width="*"></td>
+										<td width="*">1</td>
+										<td width="*" style="mso-number-format:'\@'">01/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">2</td>
+										<td width="*" style="mso-number-format:'\@'">02/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">3</td>
+										<td width="*" style="mso-number-format:'\@'">03/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">4</td>
+										<td width="*" style="mso-number-format:'\@'">04/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">5</td>
+										<td width="*" style="mso-number-format:'\@'">05/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">6</td>
+										<td width="*" style="mso-number-format:'\@'">06/07/2024</td>
+										<td width="*">
+
+																																				Holiday
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">7</td>
+										<td width="*" style="mso-number-format:'\@'">07/07/2024</td>
+										<td width="*">
+
+																																				Holiday
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">8</td>
+										<td width="*" style="mso-number-format:'\@'">08/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">9</td>
+										<td width="*" style="mso-number-format:'\@'">09/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">10</td>
+										<td width="*" style="mso-number-format:'\@'">10/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">11</td>
+										<td width="*" style="mso-number-format:'\@'">11/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">12</td>
+										<td width="*" style="mso-number-format:'\@'">12/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">13</td>
+										<td width="*" style="mso-number-format:'\@'">13/07/2024</td>
+										<td width="*">
+
+																																				Holiday
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">14</td>
+										<td width="*" style="mso-number-format:'\@'">14/07/2024</td>
+										<td width="*">
+
+																																				Holiday
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">15</td>
+										<td width="*" style="mso-number-format:'\@'">15/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">16</td>
+										<td width="*" style="mso-number-format:'\@'">16/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">17</td>
+										<td width="*" style="mso-number-format:'\@'">17/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">18</td>
+										<td width="*" style="mso-number-format:'\@'">18/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">19</td>
+										<td width="*" style="mso-number-format:'\@'">19/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">20</td>
+										<td width="*" style="mso-number-format:'\@'">20/07/2024</td>
+										<td width="*">
+
+																																				Holiday
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">21</td>
+										<td width="*" style="mso-number-format:'\@'">21/07/2024</td>
+										<td width="*">
+
+																																				Holiday
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">22</td>
+										<td width="*" style="mso-number-format:'\@'">22/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">23</td>
+										<td width="*" style="mso-number-format:'\@'">23/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">24</td>
+										<td width="*" style="mso-number-format:'\@'">24/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">25</td>
+										<td width="*" style="mso-number-format:'\@'">25/07/2024</td>
+										<td width="*">
+
+																																				Working Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												At 11:00 AM On 25/07/2024																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							09Hr:00Min:00Sec																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">26</td>
+										<td width="*" style="mso-number-format:'\@'">26/07/2024</td>
+										<td width="*">
+
+																																				Working Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												At 10:09 AM On 26/07/2024																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							09Hr:00Min:00Sec																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">27</td>
+										<td width="*" style="mso-number-format:'\@'">27/07/2024</td>
+										<td width="*">
+
+																																				Holiday
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">28</td>
+										<td width="*" style="mso-number-format:'\@'">28/07/2024</td>
+										<td width="*">
+
+																																				Holiday
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">29</td>
+										<td width="*" style="mso-number-format:'\@'">29/07/2024</td>
+										<td width="*">
+
+																																				Leave Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">30</td>
+										<td width="*" style="mso-number-format:'\@'">30/07/2024</td>
+										<td width="*">
+
+																																				Working Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												At 04:33 PM On 30/07/2024																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												At 05:22 PM On 30/07/2024																					</td>
+										<td width="*">
+																							09Hr:00Min:00Sec																					</td>
+										<td width="*">
+											
+												00Hr:48Min:50Sec																					</td>
+
+									</tr>
+
+
+								
+									<tr>
+										<td width="*"></td>
+										<td width="*">31</td>
+										<td width="*" style="mso-number-format:'\@'">31/07/2024</td>
+										<td width="*">
+
+																																				Working Day
+																							
+										</td>
+										<td width="*" style="mso-number-format:'\@'"> 												At 10:30 AM On 31/07/2024																					</td>
+										<td width="*" style="mso-number-format:'\@'"> 												N/A
+																					</td>
+										<td width="*">
+																							09Hr:00Min:00Sec																					</td>
+										<td width="*">
+																							N/A
+																					</td>
+
+									</tr>
+
+
+								
+
+						
+
+
+
+
+
+
+					
+
+					</tbody>
+
+	</table>
+
+
+
+</body>
+
+</html>
