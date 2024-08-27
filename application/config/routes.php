@@ -63,6 +63,7 @@ $route['reset_password/(:any)'] = 'Login/reset_password/$1';
 $route['secureRegions/admin_reset_password/(:any)'] = 'secureRegions/Login/admin_reset_password/$1';
 
 $route['employee-attendance'] = 'user/employee_attendance';
+$route['compare_face'] = 'user/compare_face';
 
 // $route['employee-login'] = 'user/user_employee_login';
 $route['ajax_user_employee_do_login'] = 'user/ajax_user_employee_do_login';
