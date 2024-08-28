@@ -63,10 +63,15 @@ $route['reset_password/(:any)'] = 'Login/reset_password/$1';
 $route['secureRegions/admin_reset_password/(:any)'] = 'secureRegions/Login/admin_reset_password/$1';
 
 $route['employee-attendance'] = 'user/employee_attendance';
+
 $route['compare_face'] = 'user/compare_face';
+$route['add_identity'] = 'user/add_identity';
+$route['bulk_search'] = 'user/bulk_search';
+$route['add_bulk_search'] = 'user/add_bulk_search';
 
 // $route['employee-login'] = 'user/user_employee_login';
 $route['ajax_user_employee_do_login'] = 'user/ajax_user_employee_do_login';
+$route['fr_ajax_user_employee_do_login'] = 'user/fr_ajax_user_employee_do_login';
 $route['employee-login-success'] = 'user/user_employee_login_success';
 // $route['employee-login-error'] = 'user/user_employee_login_error';
 
@@ -74,6 +79,10 @@ $route['employee-login-success'] = 'user/user_employee_login_success';
 $route['ajax_user_employee_do_logout'] = 'user/ajax_user_employee_do_logout';
 $route['employee-logout-success'] = 'user/user_employee_logout_success';
 // $route['employee-logout-error'] = 'user/user_employee_logut_error';
+
+$route['fr_home'] = 'user/fr_home';
+$route['fr_login_success'] = 'user/fr_login_success';
+$route['fr_logout_success'] = 'user/fr_logout_success';
 
 $route['test_home'] = 'user/test_home';
 $route['test_employee_attendance'] = 'user/test_employee_attendance';
